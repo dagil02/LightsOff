@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: 861785064acfcba48bcb9d964783d88e
+timeCreated: 1521148275
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: brazoDelante
+    21300002: focoArriba
+    21300004: cabeza
+    21300006: focoDeFrente
+    21300008: brazoDetras
+    21300010: antebrazoDelante
+    21300012: agujeroBrazo
+    21300014: cintura5
+    21300016: manoDetras
+    21300018: antebrazoDetras
+    21300020: manoDelante
+    21300022: agujeroPienra
+    21300024: cintura4
+    21300026: meniqueDelante
+    21300028: indiceDelante
+    21300030: pulgarDelante
+    21300032: cintura3
+    21300034: meniqueDetras
+    21300036: indiceDetras
+    21300038: pulgarDetras
+    21300040: cintura2
+    21300042: pienaDelante
+    21300044: pieDelante
+    21300046: cintura1
+    21300048: piernaDetras
+    21300050: pieDetras
+    21300052: cadera
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: brazoDelante
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 388
+        width: 38
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5524678, y: 0.84674287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: focoArriba
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 384
+        width: 114
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cabeza
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 330
+        width: 108
+        height: 134
+      alignment: 9
+      pivot: {x: 0.4876928, y: 0.104152165}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: focoDeFrente
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 392
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: brazoDetras
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 392
+        width: 40
+        height: 116
+      alignment: 9
+      pivot: {x: 0.4833847, y: 0.83802426}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: antebrazoDelante
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 280
+        width: 54
+        height: 100
+      alignment: 9
+      pivot: {x: 0.54, y: 0.97185916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: agujeroBrazo
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 302
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cintura5
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 276
+        width: 98
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39615822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: manoDetras
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 273
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: antebrazoDetras
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 273
+        width: 60
+        height: 76
+      alignment: 9
+      pivot: {x: 0.51, y: 0.97}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: manoDelante
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 225
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: agujeroPienra
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 221
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cintura4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 232
+        width: 107
+        height: 32
+      alignment: 9
+      pivot: {x: 0.49378896, y: 0.39615774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: meniqueDelante
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 165
+        width: 24
+        height: 37
+      alignment: 9
+      pivot: {x: 0.8322949, y: 0.8772001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: indiceDelante
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 164
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.35231316, y: 0.8876771}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pulgarDelante
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 169
+        width: 33
+        height: 32
+      alignment: 9
+      pivot: {x: 0.17777437, y: 0.8322954}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cintura3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 192
+        width: 97
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33888754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: meniqueDetras
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 176
+        width: 22
+        height: 38
+      alignment: 9
+      pivot: {x: 0.7718783, y: 0.8322955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: indiceDetras
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 172
+        width: 21
+        height: 37
+      alignment: 9
+      pivot: {x: 0.3417649, y: 0.8592377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pulgarDetras
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 183
+        width: 34
+        height: 29
+      alignment: 9
+      pivot: {x: 0.18725227, y: 0.79792}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cintura2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 154
+        width: 103
+        height: 31
+      alignment: 9
+      pivot: {x: 0.49354762, y: 0.3928075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pienaDelante
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 20
+        width: 43
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5154557, y: 0.81809443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pieDelante
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 25
+        width: 93
+        height: 120
+      alignment: 9
+      pivot: {x: 0.39280817, y: 0.9596747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cintura1
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 120
+        width: 97
+        height: 31
+      alignment: 9
+      pivot: {x: 0.49314848, y: 0.392808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: piernaDetras
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 13
+        width: 43
+        height: 116
+      alignment: 9
+      pivot: {x: 0.51545537, y: 0.82656586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pieDetras
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 19
+        width: 94
+        height: 117
+      alignment: 9
+      pivot: {x: 0.33738807, y: 0.95455813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cadera
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 30
+        width: 107
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

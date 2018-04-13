@@ -1,0 +1,1257 @@
+fileFormatVersion: 2
+guid: eaee2b64b2b76464dbfd68bcf53d202b
+timeCreated: 1523366653
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: crashtestart_basics_64_0
+    21300002: crashtestart_basics_64_1
+    21300004: crashtestart_basics_64_2
+    21300006: crashtestart_basics_64_3
+    21300008: crashtestart_basics_64_4
+    21300010: crashtestart_basics_64_5
+    21300012: crashtestart_basics_64_6
+    21300014: crashtestart_basics_64_7
+    21300016: crashtestart_basics_64_8
+    21300018: crashtestart_basics_64_9
+    21300020: crashtestart_basics_64_10
+    21300022: crashtestart_basics_64_11
+    21300024: crashtestart_basics_64_12
+    21300026: crashtestart_basics_64_13
+    21300028: crashtestart_basics_64_14
+    21300030: crashtestart_basics_64_15
+    21300032: crashtestart_basics_64_16
+    21300034: crashtestart_basics_64_17
+    21300036: crashtestart_basics_64_18
+    21300038: crashtestart_basics_64_19
+    21300040: crashtestart_basics_64_20
+    21300042: crashtestart_basics_64_21
+    21300044: crashtestart_basics_64_22
+    21300046: crashtestart_basics_64_23
+    21300048: crashtestart_basics_64_24
+    21300050: crashtestart_basics_64_25
+    21300052: crashtestart_basics_64_26
+    21300054: crashtestart_basics_64_27
+    21300056: crashtestart_basics_64_28
+    21300058: crashtestart_basics_64_29
+    21300060: crashtestart_basics_64_30
+    21300062: crashtestart_basics_64_31
+    21300064: crashtestart_basics_64_32
+    21300066: crashtestart_basics_64_33
+    21300068: crashtestart_basics_64_34
+    21300070: crashtestart_basics_64_35
+    21300072: crashtestart_basics_64_36
+    21300074: crashtestart_basics_64_37
+    21300076: crashtestart_basics_64_38
+    21300078: crashtestart_basics_64_39
+    21300080: crashtestart_basics_64_40
+    21300082: crashtestart_basics_64_41
+    21300084: crashtestart_basics_64_42
+    21300086: crashtestart_basics_64_43
+    21300088: crashtestart_basics_64_44
+    21300090: crashtestart_basics_64_45
+    21300092: crashtestart_basics_64_46
+    21300094: crashtestart_basics_64_47
+    21300096: crashtestart_basics_64_48
+    21300098: crashtestart_basics_64_49
+    21300100: crashtestart_basics_64_50
+    21300102: crashtestart_basics_64_51
+    21300104: crashtestart_basics_64_52
+    21300106: crashtestart_basics_64_53
+    21300108: crashtestart_basics_64_54
+    21300110: crashtestart_basics_64_55
+    21300112: crashtestart_basics_64_56
+    21300114: crashtestart_basics_64_57
+    21300116: crashtestart_basics_64_58
+    21300118: crashtestart_basics_64_59
+    21300120: crashtestart_basics_64_60
+    21300122: crashtestart_basics_64_61
+    21300124: crashtestart_basics_64_62
+    21300126: crashtestart_basics_64_63
+    21300128: crashtestart_basics_64_64
+    21300130: crashtestart_basics_64_65
+    21300132: crashtestart_basics_64_66
+    21300134: crashtestart_basics_64_67
+    21300136: crashtestart_basics_64_68
+    21300138: crashtestart_basics_64_69
+    21300140: crashtestart_basics_64_70
+    21300142: crashtestart_basics_64_71
+    21300144: crashtestart_basics_64_72
+    21300146: crashtestart_basics_64_73
+    21300148: crashtestart_basics_64_74
+    21300150: crashtestart_basics_64_75
+    21300152: crashtestart_basics_64_76
+    21300154: crashtestart_basics_64_77
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 70
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crashtestart_basics_64_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 954
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 954
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 954
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 954
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 954
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_5
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 954
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 884
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_7
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 884
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_8
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 884
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_9
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 884
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 884
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_11
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 884
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 814
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_13
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 814
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_14
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 814
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 814
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_16
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 814
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_17
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 814
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 744
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_19
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 744
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_20
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 744
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_21
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 744
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_22
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 744
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_23
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 744
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 674
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_25
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 674
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_26
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 674
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_27
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 674
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_28
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 674
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_29
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 674
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 604
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_31
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 604
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_32
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 604
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_33
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 604
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_34
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 604
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_35
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 604
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 534
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_37
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 534
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_38
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 534
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_39
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 534
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_40
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 534
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_41
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 534
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_43
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 464
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_44
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 464
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_45
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 464
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_46
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 464
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_47
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 464
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 394
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_49
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 394
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_50
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 394
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_51
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 394
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_52
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 394
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_53
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 394
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 324
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_55
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 324
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_56
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 324
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_57
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 324
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_58
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 324
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_59
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 324
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 254
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_61
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 254
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_62
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 254
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_63
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 254
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_64
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 254
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_65
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 254
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_67
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 184
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_68
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 184
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_69
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 184
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_70
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 184
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_71
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 184
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_73
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 114
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_74
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 114
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_75
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 114
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_76
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 114
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crashtestart_basics_64_77
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 114
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
